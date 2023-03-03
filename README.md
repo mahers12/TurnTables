@@ -29,11 +29,7 @@
 
 ### **_Getting Started_**
 
-#### Component Heirerachy Diagram:
-
 #### ![ERD](images/CHD.png)
-
-#### Entity Relationship Diagram:
 
 #### ![ERD](images/ERD.png)
 
